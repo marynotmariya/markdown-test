@@ -1,0 +1,202 @@
+@import "reset.css";
+
+font-face{
+  src: url(fonts/SF-Pro-Text-Bold.ttf);
+  font-family: SF Pro Text Bold;
+}
+font-face{
+  src: url(fonts/SF-Pro-Text-Medium.ttf);
+  font-family: SF Pro Text Medium;
+}
+font-face{
+  src: url(fonts/SF-Pro-Text-Regular.ttf);
+  font-family: SF Pro Text Regular;
+}
+font-face{
+  src: url(fonts/SF-Pro-Text-Semibold.ttf);
+  font-family: SF Pro Text Semibold;
+}
+
+h1{
+  position: static;
+  width: 343px;
+  height: 144px;
+  left: 16px;
+  top: 24px;
+  font-family: SF Pro Display;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 36px;
+  letter-spacing: 0.36px;
+}
+
+h2{
+  position: static;
+  width: 343px;
+  height: 96px;
+  left: 16px;
+  top: 24px;
+  font-family: SF Pro Display;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 27px;
+  line-height: 32px;
+  letter-spacing: 0.35px;
+}
+
+h3{
+  position: static;
+  width: 343px;
+  height: 84px;
+  left: 16px;
+  top: 24px;
+  font-family: SF Pro Display;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 28px;
+  letter-spacing: 0.35px;
+}
+
+h4{
+  position: static;
+  left: 4.27%;
+  right: 4.27%;
+  top: 28.57%;
+  bottom: 14.29%;
+  font-family: SF Pro Text;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 11px;
+  line-height: 16px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+
+}
+
+p{
+  position: static;
+  width: 343px;
+  height: 264px;
+  left: 16px;
+  top: 0px;
+  font-family: SF Pro Text;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 17px;
+  line-height: 24px;
+  letter-spacing: -0.41px;
+}
+
+#List-Item-1 {
+  position: static;
+  width: 322px;
+  height: 48px;
+  left: 21px;
+  top: 0px;
+  font-family: SF Pro Text;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 24px;
+  letter-spacing: -0.41px;
+}
+
+#List-Item-2 {
+  position: static;
+  width: 302px;
+  height: 48px;
+  left: 21px;
+  top: 0px;
+  font-family: SF Pro Text;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 24px;
+  letter-spacing: -0.41px;
+}
+
+#List-Item-3 {
+  position: static;
+  width: 274px;
+  height: 48px;
+  left: 21px;
+  top: 0px;
+  font-family: SF Pro Text;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 24px;
+  letter-spacing: -0.41px;
+}
+
+#List-Item-4 {
+  position: static;
+  width: 302px;
+  height: 48px;
+  left: 21px;
+  top: 0px;
+  font-family: SF Pro Text;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 24px;
+  letter-spacing: -0.41px;
+}
+
+#List-Item-5 {
+  position: static;
+  width: 322px;
+  height: 48px;
+  left: 21px;
+  top: 0px;
+  font-family: SF Pro Text;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 24px;
+  letter-spacing: -0.41px;
+}
+
+#List-Item-6 {
+  position: static;
+  width: 322px;
+  height: 72px;
+  left: 21px;
+  top: 0px;
+  font-family: SF Pro Text;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 24px;
+  letter-spacing: -0.41px;
+}
+
+dl {
+  position: static;
+  width: 343px;
+  height: 108px;
+  left: 16px;
+  top: 0px;
+  font-family: SF Pro Text;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 18px;
+  letter-spacing: -0.08px;
+}
+
+q {
+  position: static;
+  width: 343px;
+  height: 24px;
+  left: 16px;
+  top: 8px;
+  font-family: SF Pro Text;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 24px;
+  letter-spacing: -0.41px;
+}
