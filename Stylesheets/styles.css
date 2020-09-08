@@ -29,6 +29,7 @@ h1{
   font-size: 30px;
   line-height: 36px;
   letter-spacing: 0.36px;
+  margin-bottom:40px;
 }
 
 h2{
@@ -43,6 +44,7 @@ h2{
   font-size: 27px;
   line-height: 32px;
   letter-spacing: 0.35px;
+  margin-bottom:40px;
 }
 
 h3{
@@ -57,6 +59,7 @@ h3{
   font-size: 22px;
   line-height: 28px;
   letter-spacing: 0.35px;
+  margin-bottom:40px;
 }
 
 h4{
@@ -72,6 +75,7 @@ h4{
   line-height: 16px;
   letter-spacing: 1px;
   text-transform: uppercase;
+  margin-bottom:40px;
 
 }
 
@@ -87,6 +91,7 @@ p{
   font-size: 17px;
   line-height: 24px;
   letter-spacing: -0.41px;
+  margin-bottom:40px;
 }
 
 #List-Item-1 {
@@ -101,6 +106,7 @@ p{
   font-size: 17px;
   line-height: 24px;
   letter-spacing: -0.41px;
+  margin-top: 27px;
 }
 
 #List-Item-2 {
@@ -115,6 +121,7 @@ p{
   font-size: 17px;
   line-height: 24px;
   letter-spacing: -0.41px;
+  margin-top: 27px;
 }
 
 #List-Item-3 {
@@ -129,6 +136,7 @@ p{
   font-size: 17px;
   line-height: 24px;
   letter-spacing: -0.41px;
+  margin-top: 27px;
 }
 
 #List-Item-4 {
@@ -143,6 +151,7 @@ p{
   font-size: 17px;
   line-height: 24px;
   letter-spacing: -0.41px;
+  margin-top: 27px;
 }
 
 #List-Item-5 {
@@ -157,6 +166,7 @@ p{
   font-size: 17px;
   line-height: 24px;
   letter-spacing: -0.41px;
+  margin-top: 27px;
 }
 
 #List-Item-6 {
@@ -171,6 +181,7 @@ p{
   font-size: 17px;
   line-height: 24px;
   letter-spacing: -0.41px;
+  margin-top: 27px;
 }
 
 dl {
@@ -185,6 +196,7 @@ dl {
   font-size: 13px;
   line-height: 18px;
   letter-spacing: -0.08px;
+  margin-bottom:40px;
 }
 
 q {
@@ -199,4 +211,5 @@ q {
   font-size: 17px;
   line-height: 24px;
   letter-spacing: -0.41px;
+  margin-bottom:40px;
 }
