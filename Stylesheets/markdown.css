@@ -18,11 +18,6 @@ font-face{
 }
 
 h1{
-  position: static;
-  width: 343px;
-  height: 144px;
-  left: 16px;
-  top: 24px;
   font-family: SF Pro Display;
   font-style: normal;
   font-weight: bold;
