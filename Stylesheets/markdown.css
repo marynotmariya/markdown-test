@@ -1,19 +1,19 @@
 @import "reset.css";
 
 font-face{
-  src: url(fonts/SF-Pro-Text-Bold.ttf);
+  src: url(./Fonts/SF-Pro-Text-Bold.ttf);
   font-family: SF Pro Text Bold;
 }
 font-face{
-  src: url(fonts/SF-Pro-Text-Medium.ttf);
+  src: url(./Fonts/SF-Pro-Text-Medium.ttf);
   font-family: SF Pro Text Medium;
 }
 font-face{
-  src: url(fonts/SF-Pro-Text-Regular.ttf);
+  src: url(./Fonts/SF-Pro-Text-Regular.ttf);
   font-family: SF Pro Text Regular;
 }
 font-face{
-  src: url(fonts/SF-Pro-Text-Semibold.ttf);
+  src: url(./Fonts/SF-Pro-Text-Semibold.ttf);
   font-family: SF Pro Text Semibold;
 }
 
