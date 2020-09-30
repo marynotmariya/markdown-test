@@ -4,7 +4,7 @@
 }
 body{
     width: 100%;
-    color: #0B1F35;
+    color: #000000;
 }
 header, footer{
     position: absolute;
@@ -84,7 +84,7 @@ footer{
     font-family: -apple-system, 'Helvetica Neue', 'Roboto', Arial, sans-serif;
     font-size: 13px;
     text-transform: uppercase;
-    color: #6D7986;
+    color: #8A8A8E;
 }
 .example{
     padding-bottom: 24px;

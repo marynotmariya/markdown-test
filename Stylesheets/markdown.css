@@ -51,7 +51,7 @@ q {
   font-weight: normal;
   font-size: 13px;
   line-height: 18px;
-  color: #6D7986;
+  color: #8A8A8E;
   padding-bottom: 12px;
   padding-top: 2px;
 }
@@ -59,7 +59,6 @@ q {
 li{
     font-family: -apple-system, 'Helvetica Neue', 'Roboto', Arial, sans-serif;
     display: list-item;
-    padding-left: 4px;
     padding-bottom: 12px;
 }
 
@@ -71,28 +70,27 @@ ul {
   font-weight: normal;
   font-size: 17px;
   line-height: 24px;
-  padding-left: 17px;
   display: block;
-  list-style-type: disc;
 }
+
 ul li {
-  list-style-type: "–  ";
-  list-style-position: outside;
+    list-style: none;
+    padding-left: 24px;
+   }
+
+ul li:before{
+    content: '–';
+    padding-right: 12px;
+    margin-left: -24px;
 }
 
 ol {
   font-weight: normal;
   font-size: 17px;
   line-height: 24px;
-  padding-left: 17px;
+  padding-left: 24px;
   display: block;
   list-style-type: decimal;
-}
-
-ol li {
-  list-style-position: outside;
-  display: list-item;
-  padding-left: 4px;
 }
 
 img{
