@@ -52,8 +52,8 @@ footer{
     display: inline-block;
     text-align: center;
     width: 120px;
-    font-family: 'SFTBold';
-    font-weight: normal;
+    font-family: -apple-system, 'Helvetica Neue', 'Roboto', Arial, sans-serif;
+    font-weight: bold;
     font-size: 17px;
     line-height: 24px;
     letter-spacing: -0.408px;
@@ -76,7 +76,7 @@ footer{
     text-align: center;
     margin-left: -24px;
     margin-right: -24px;
-    font-family: SFRegular;
+    font-family: -apple-system, 'Helvetica Neue', 'Roboto', Arial, sans-serif;
     font-size: 13px;
     text-transform: uppercase;
     color: #6D7986;
