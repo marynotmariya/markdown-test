@@ -62,8 +62,13 @@ footer{
     margin-top: 24px;
     background-color: #2B2B2B;
     color: #FFFFFF;
-    border-radius: 10px;
+    border-radius: 8px;
 }
+.btn-secondary{
+    background-color: #fff;
+    color: #2B2B2B;
+}
+
 .tagline{
     margin-bottom: -24px;
     text-transform: uppercase;
