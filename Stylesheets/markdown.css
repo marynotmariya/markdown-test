@@ -39,7 +39,7 @@ h4 {
 
 p {
   font-family: -apple-system, 'Helvetica Neue', 'Roboto', Arial, sans-serif;
-  font-weight: normal;
+  font-weight: 400;
   font-size: 17px;
   line-height: 24px;
   padding-bottom: 12px;
@@ -48,7 +48,7 @@ p {
 q {
   font-family: -apple-system, 'Helvetica Neue', 'Roboto', Arial, sans-serif;
   display: block;
-  font-weight: normal;
+  font-weight: 400;
   font-size: 13px;
   line-height: 18px;
   color: #8A8A8E;
@@ -67,7 +67,7 @@ li q{
 }
 
 ul {
-  font-weight: normal;
+  font-weight: 400;
   font-size: 17px;
   line-height: 24px;
   display: block;
@@ -85,7 +85,7 @@ ul li:before{
 }
 
 ol {
-  font-weight: normal;
+  font-weight: 400;
   font-size: 17px;
   line-height: 24px;
   padding-left: 24px;
