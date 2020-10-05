@@ -2,7 +2,7 @@
 
 h1 {
   font-family: -apple-system, 'Helvetica Neue', 'Roboto', Arial, sans-serif;
-  font-weight: bold;
+  font-weight: 700;
   font-size: 27px;
   line-height: 32px;
   padding-top: 24px;
@@ -11,7 +11,7 @@ h1 {
 
 h2 {
   font-family: -apple-system, 'Helvetica Neue', 'Roboto', Arial, sans-serif;
-  font-weight: bold;
+  font-weight: 700;
   font-size: 22px;
   line-height: 28px;
   padding-top: 24px;
@@ -20,7 +20,7 @@ h2 {
 
 h3 {
   font-family: -apple-system, 'Helvetica Neue', 'Roboto', Arial, sans-serif;
-  font-weight: bold;
+  font-weight: 700;
   font-size: 17px;
   line-height: 24px;
   padding-top: 24px;
@@ -29,7 +29,7 @@ h3 {
 
 h4 {
   font-family: -apple-system, 'Helvetica Neue', 'Roboto', Arial, sans-serif;
-  font-weight: bold;
+  font-weight: 700;
   font-size: 17px;
   line-height: 24px;
   letter-spacing: -0.408px;
